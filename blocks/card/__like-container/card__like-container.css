@@ -1,0 +1,6 @@
+.card__like-container {
+  display: flex;
+  flex-direction: column; /* Располагаем элементы вертикально */
+  align-items: center;    /* Центрируем по горизонтали */
+  gap: 4px;               /* Расстояние между лайком и числом */
+}
